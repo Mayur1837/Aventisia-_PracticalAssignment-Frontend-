@@ -24,6 +24,10 @@ This repository contains the frontend implementation for the Aventisia practical
 ##  Demo Video
 
 
+
+https://github.com/user-attachments/assets/ac097ea9-9227-442f-95f2-da9d8e51fa89
+
+
 ### Tablet View
 
 <img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/532dc207-8804-4929-9c23-1471d2a6a312" />
